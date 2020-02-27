@@ -1,4 +1,4 @@
-ource "https://rubygems.org"
+source "https://rubygems.org"
 
 gem "hashie"
 gem "sinatra", "2.0.2"
